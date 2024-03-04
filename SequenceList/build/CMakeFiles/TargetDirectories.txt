@@ -1,0 +1,3 @@
+/home/shawn/Data_structure/SequenceList/build/CMakeFiles/rebuild_cache.dir
+/home/shawn/Data_structure/SequenceList/build/CMakeFiles/edit_cache.dir
+/home/shawn/Data_structure/SequenceList/build/CMakeFiles/SqList.dir
